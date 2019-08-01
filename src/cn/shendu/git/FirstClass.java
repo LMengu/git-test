@@ -7,7 +7,7 @@ public class FirstClass {
         System.out.println("hello git project");
         System.out.println("hello git project");
         System.out.println("hello git project");
-        //hello test
+        //hello test 为什么修改不成功
 
     }
     public void test(){
